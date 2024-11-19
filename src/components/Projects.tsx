@@ -5,19 +5,19 @@ const projects = [
   { 
     title: "Moodify", 
     description: "Crafting serenity with ambient sounds for focus, calm, and insomnia relief, featuring 18 primary sounds and essential user-friendly functionalities",
-    imageSrc: "src/assets/modify.png",
+    imageSrc: "src/assets/modify.jpg",
     link: "https://moodify.pages.dev/"
   },
   { 
     title: "Customer Details Portal", 
     description: "A customer details portal displays a scrollable list of as many customers, loading 20 at a time with an infinite scroll, and highlights the selected card details on the right",
-    imageSrc: "src/assets/customer.png",
+    imageSrc: "src/assets/customer.jpg",
     link: "https://customer-details-portal-iota.vercel.app/"
   },
   { 
     title: "Drawing Board", 
     description: "A responsive doodling app with download functionality, stroke adjustment, and color selection, enhancing creativity on the go.",
-    imageSrc: "src/assets/drawing.png",
+    imageSrc: "src/assets/drawing.jpg",
     link: "https://wboard.pages.dev/"
   }
 ]
